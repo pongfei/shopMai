@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741959804747",
+    "project_id": "egci428-92abd",
+    "storage_bucket": "egci428-92abd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741959804747:android:c961e7a4518e08e8fd6ace",
+        "android_client_info": {
+          "package_name": "com.egci428.ex19_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk1A7dM9Rwx0ryS4XR6O4QsUjXZmcvXAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741959804747:android:d9a9d773d041e8f1fd6ace",
+        "android_client_info": {
+          "package_name": "com.example.ex19_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk1A7dM9Rwx0ryS4XR6O4QsUjXZmcvXAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
